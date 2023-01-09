@@ -18,7 +18,8 @@ You can reference the finished code if you need, but preferably the students sho
 5. Split Arcade Drive  
 6. Mechanum Drive  
 7. Drive Forward and Slide Auto  
+&nbsp;
 8. Field Centric Drive*  
 9. Turning in Auto*  
 10. Color/Distance Sensors*  
-*These can be done in any order, You should let the team decide what's most useful to them.
+    *These can be done in any order, You should let the team decide what's most useful to them.
