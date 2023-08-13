@@ -26,6 +26,9 @@ public class MechanumDriveCompleted extends OpMode {
         rightFront = hardwareMap.get(DcMotor.class, "rightFront");
         rightBack = hardwareMap.get(DcMotor.class, "rightBack");
 
+        rightFront.setDirection(DcMotorSimple.Direction.REVERSE);
+        rightBack.setDirection(DcMotorSimple.Direction.REVERSE);
+
         // Displays on the drivers hub when it finishes initialization
         telemetry.addData("status", "Initialized");
     }
